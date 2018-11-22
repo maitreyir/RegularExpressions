@@ -1,5 +1,4 @@
 #find match if it occurs at start of the string
-
 import re
 string =input("Enter string:")
 #return match object
